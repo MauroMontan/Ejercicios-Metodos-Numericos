@@ -1,0 +1,9 @@
+
+install dependencies by running in terminal:
+    pip install -r requirements.txt
+
+
+
+for script execution:
+    python biseccion.py
+
